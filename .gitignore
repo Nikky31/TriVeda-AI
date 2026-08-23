@@ -1,0 +1,18 @@
+# Ignore dataset images
+Resized/
+SplitDataset/
+
+# Ignore large model files
+*.keras
+*.h5
+
+# Ignore virtual environments
+triphalaenv/
+.venv/
+env/
+
+# Ignore cache & Mac files
+__pycache__/
+*.py[cod]
+.DS_Store
+results/
